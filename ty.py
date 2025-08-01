@@ -1,1 +1,1 @@
-print"yt"
+print("yt")
